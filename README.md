@@ -3,10 +3,14 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=badi3a.badi3a)
-[![Github](https://img.shields.io/github/followers/badi3a?label=Follow&style=social)](https://github.com/badi3a)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=chourabiaziz.chourabiaziz)
+[![Github](https://img.shields.io/github/followers/chourabiaziz?label=Follow&style=social)](https://github.com/chourabiaziz
 
-<div size='20px'> Hi! My name is Badiaa and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile: 
+
+
+)
+
+<div size='20px'> Hi! My name is chourabi aziz and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -37,20 +41,20 @@
 	<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/badia-bouhdid-a12925100/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/chourabiaziz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.youtube.com/channel/UCvxNQew_Sj6KQWR4jZazuIw'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a> 
-<a href = 'https://medium.com/@badiaabouhdid'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://badi3a.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/badi3a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://medium.com/@chourabiaziz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'http://chourabiaziz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/chourabiaziz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
   <br>
 	<h2>⚡ GitHub Stats</h2>
   
-[![Badiaa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=badi3a&theme=tokyonight)](https://git.io/praveenscience)
+[![chourabiaziz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chourabiaziz&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Badiaa's github stats](https://github-readme-stats.vercel.app/api?username=badi3a&show_icons=true&theme=tokyonight) | ![Badiaa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badi3a&theme=tokyonight) |
+| ![chourabiaziz's github stats](https://github-readme-stats.vercel.app/api?username=chourabiaziz&show_icons=true&theme=tokyonight) | ![chourabiaziz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chourabiaziz&theme=tokyonight) |
 | --- | --- |
 
 
