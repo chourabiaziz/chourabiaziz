@@ -1,5 +1,7 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEXr4uBIaalLA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702685196215?e=1738800000&v=beta&t=iNDNbW_hk_fp_2crggPVL52_c7pRojRLeHQ9m57kps4" >
 <h1 align="center">Hi 👋, I'm CHOURABI AZIZ</h1><br/>
 <h3 align="center">Software Engineering Student </h3><br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chourabiazizh&label=Profile%20views&color=e42a28&style=flat" alt="chourabiaziz" /> </p><br/>
 🚀 Passionate about leveraging technology to solve real-world challenges! As a software engineering student, I am constantly searching for opportunities to push the limits of innovation. Currently focused on signal processing and AI, I am drawn to the fascinating world of data engineering and cloud technologies.
 <br/><br/>
